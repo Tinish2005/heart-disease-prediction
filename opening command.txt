@@ -1,0 +1,5 @@
+# Windows PowerShell
+.\venv\Scripts\Activate.ps1
+
+# Then run
+streamlit run heart_disease_app.py
